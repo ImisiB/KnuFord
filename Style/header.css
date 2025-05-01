@@ -1,0 +1,35 @@
+header{
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+}
+.header{
+  background-color: #0d86f8;
+}
+.heads{
+  display: flex;
+  align-items: center;
+  padding: 1.6rem 10rem;
+}
+.ford{
+  color: white;
+  font-weight: 700;
+  font-size: 1.3rem;
+  margin-right: 10rem;
+}
+.head{
+  display: flex; 
+}
+.one{
+  cursor: pointer;
+  font-weight: 700;
+  color: #ffffffb3;
+  margin-right: 3rem;
+}
+.ones{
+  cursor: pointer;
+  font-weight: 700;
+  color: white;
+  margin-right: 3rem;
+}
