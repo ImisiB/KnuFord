@@ -13,10 +13,9 @@
 }
 .hi{
   background-color: white;
-  font-family: Arial;
+  color: #0779e4;
   font-weight: 700;
   border-radius: 4px;
-  color: #0779e4;
   max-width: fit-content;
   padding: 0.4rem 0.6rem;
 }
@@ -88,19 +87,53 @@
   font-size: 0.8rem;
   text-transform: uppercase;
   margin-right: 0.6rem;
-  
 }
-/* dfkdsfsfsjfok */
+
 .about{
-  padding: 9rem;
+  padding: 7rem;
 }
 .society{
   display: grid;
   grid-template-columns: 1fr 1fr;
+  place-content: center;
 }
-.responsive{
-  width: 100%;
-  max-width: 600px;
-  max-height: 1000px;
-  height: auto;
+.img{
+  margin-right: 2rem;
+}
+.img img{
+  object-fit: cover;
+  height: 600px;
+  width: 600px;
+}
+.flex{
+  display: flex;
+  margin-bottom: 1.25rem;
+}
+.skills{
+  color: white;
+  background-color: #0779e4;
+  font-size: 0.8rem;
+  font-weight: 700;
+  border-radius: 4px;
+  max-width: fit-content;
+  padding: 0.7rem;
+  cursor: pointer;
+  text-transform: uppercase;
+  margin-right: 0.9rem;
+}
+.skill{
+  color: #777777;
+  background-color: white;
+  font-size: 0.8rem;
+  font-weight: 700;
+  border-radius: 4px;
+  max-width: fit-content;
+  padding: 0.7rem;
+  cursor: pointer;
+  text-transform: uppercase;
+  margin-right: 0.9rem;
+}
+.story{
+  color: #000000cc;;
+  font-size: 3rem;
 }
