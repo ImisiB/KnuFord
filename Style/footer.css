@@ -1,0 +1,11 @@
+.footer{
+  padding: 100px 200px;
+}
+.feet{
+  display: grid;
+}
+.kn{
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 40px;
+}
