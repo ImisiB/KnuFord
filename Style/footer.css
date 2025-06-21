@@ -1,12 +1,15 @@
 .footer{
-  padding: 100px 200px;
+  padding: 100px 0px;
 }
 .feet{
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 .foot{
   margin-right: 60px;
+  margin-bottom: 20px;
 }
 .kn{
   font-size: 25px;

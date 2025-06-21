@@ -1,0 +1,122 @@
+@media screen and (max-width: 1024px) {
+  .hidden-menu{
+    display: block;
+  }
+  .head{
+    display: none;
+  }
+  .ford{
+    margin: 0;
+  }
+  .heads{
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .lips{
+    display: none;
+  }
+  .lip{
+    display: none;
+  }
+  .blank{
+    display: none;
+  }
+  .contacting{
+    display: block;
+  }
+}
+@media screen and (max-width: 768px) {
+  .attach{
+    padding: 5px;
+  }
+  .name{
+    font-size: 40px;
+  }
+  .testing{
+    margin-right: 0;
+  }
+  .testings{
+    margin-right: 0;
+  }
+  .sub input{
+    width: 300px;
+  }
+  .bio textarea{
+    width: 300px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .img img{
+    display: none;
+  }
+  .testing{
+    padding: 1px;
+  }
+  .testings{
+    padding: 1px;
+  }
+  .chance{
+    width: 300px;
+    height: 300px;
+  }
+  .for input,
+  .sub input{
+    width: 200px;
+  }
+  .bio textarea{
+    width: 200px;
+  }
+  .blink{
+    padding: 70px 0px;
+  }
+  .dones{
+    display: none;
+  }
+  .feet{
+    justify-content: start;
+  }
+}
+@media screen and (max-width: 820px) {
+  .about{
+    padding: 0px;
+  }
+  .body{
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 691px) {
+  .over{
+    height: fit-content;
+  }
+  .overlay{
+    height: 400px;
+  }
+  .counts{
+    margin-bottom: 20px;
+    margin-right: 0px;
+  }
+  .spell{
+    width: 300px;
+    height: 300px;
+  }
+  .works{
+    width: 300px;
+    height: 300px;
+  }
+  .work{
+    width: 300px;
+    height: 300px;
+  }
+  .chance{
+    width: 350px;
+    width: 350px;
+    object-fit: cover;
+  }
+}
+@media screen and (max-width: 380px) {
+  .chance{
+    width: 250px;
+    height: 250px;
+  }
+}

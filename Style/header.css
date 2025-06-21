@@ -10,7 +10,16 @@ header{
 .heads{
   display: flex;
   align-items: center;
-  padding: 1.6rem 10rem;
+  padding: 1.6rem 0rem;
+  justify-content: center;
+}
+.hidden-menu{
+  display: none;
+  color: white;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-size: 20px;
+  cursor: pointer;
 }
 .ford{
   color: white;
